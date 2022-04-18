@@ -4,6 +4,9 @@
 // make a image database while uploading the same file make use shared pointer to multi ref the same value
 //share function ality
 
+//basic implementation of file sharing functionality in social medias
+
+
 class fileobj
 {  //file class that imitates object information 
     public:
